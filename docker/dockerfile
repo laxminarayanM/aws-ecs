@@ -1,0 +1,3 @@
+From nginx 
+COPY helloworld.html /usr/share/nginx/html
+
