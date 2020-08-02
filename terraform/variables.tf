@@ -46,11 +46,11 @@ variable "test_public_02_cidr" {
 
 ########################### Autoscale Config ################################
 
-variable "max_instance_size" {
+variable "max_asg_size" {
   description = "Maximum number of instances in the cluster"
 }
 
-variable "min_instance_size" {
+variable "min_asg_size" {
   description = "Minimum number of instances in the cluster"
 }
 

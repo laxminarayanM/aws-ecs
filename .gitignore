@@ -1,2 +1,5 @@
 Notes.txt 
+.terraform
 terraform/.terraform
+terraform/setenv.sh
+keypairs
